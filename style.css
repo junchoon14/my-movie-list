@@ -1,0 +1,14 @@
+.clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.list {
+  width: 100%;
+}
+
+.list-footer {
+  margin-right: 10%;
+}
+
